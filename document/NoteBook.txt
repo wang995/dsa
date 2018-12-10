@@ -11,4 +11,4 @@ l-line线，用于通信的初始化。由于通信的初始化也可以通过k�
 OSI（开放系统互联(Open System Interconnection)）,国际标准化组织（ISO）制定了OSI模型，该模型定义了不同计算机互联的标准，是设计和描述计算机网络通信的基本框架。OSI模型把网络通信的工作分为7层，分别是:
 物理层、数据链路层、网络层、传输层、会话层、表示层和应用层。
 
-ISO（International Organization for Standardization，国际标准化组织）
+ISO（International Organization for Standardization，国际标准化组织）  
